@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Calculator
-//
-//  Created by Mohammad Shayan on 4/3/20.
-//  Copyright © 2020 Mohammad Shayan. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain class AppDelegate: UIResponder, UIApplicationDelegate {
